@@ -25,11 +25,16 @@
           - Korelasi spearman rank merupakan jenis korelasi non parametrik yang tidak memerlukan data berdistribusi normal, sedangkan jenis korelasi ini digunakan ketika data berskala minimal ordinal dan dapat digunakan untuk data berskala rasio. 
   - ☑️ <b>Pengujian Normalitas Data</b>
     - Uji normalitas, seperti uji <i>Shapiro-Wilk </i>, digunakan untuk menentukan apakah data penelitian berdistribusi normal, dengan batasan ukuran sampel maksimal 50, di mana data yang mengikuti distribusi normal secara visual membentuk kurva lonceng.
-    
+
+# 🤖 Analyst environment 
+  Analisis ini dilakukan menggunakan bahasa pemrograma <b>R</b>, dengan menggunakan <i>library</i> atau <i>package</i> sebagai berikut:
+   - readxl (membuka file excel),
+   - ggplot2 (visualisasi heatmap),
+   - shapiro.test() (uji normalitas <i>saphiro-wilk</i>,
+   - corr() (uji korelasi). 
 # 📊 Hasil dan Pembahasan
 ## ✅ Pengujian Asumsi Normalitas
-   Melalui Pengujian yang telah dilakukan menggunakan statistik uji <i> Saphiro -Wilk </i>, diperoleh keputusan sebagai berikut:
-   
+   Melalui Pengujian yang telah dilakukan menggunakan statistik uji <i> Saphiro -Wilk </i>, diperoleh keputusan sebagai berikut.
 <b> Tabel Hasil Pengujian Normalitas Data </b>
 <table border="1">
   <thead>
