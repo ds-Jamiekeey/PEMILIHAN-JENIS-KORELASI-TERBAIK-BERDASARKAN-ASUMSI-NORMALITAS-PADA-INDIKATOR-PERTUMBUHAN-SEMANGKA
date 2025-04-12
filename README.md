@@ -47,47 +47,47 @@
   <tbody>
     <tr>
       <td> Tinggi tanaman </td>
-      <td> </td>
+      <td> 0,317 </td>
       <td> Terima H<sub>0</sub> </td>
     </tr>
     <tr>
       <td> Umur Berbunga </td>
-      <td> </td>
+      <td> 0,4621 </td>
       <td> Terima H<sub>0</sub> </td>
     </tr>
     <tr>
       <td> Panjang Buah </td>
-      <td> </td>
+      <td> 0,1074 </td>
       <td> Terima H<sub>0</sub> </td>
     </tr>
     <tr>
       <td> Diameter Buah </td>
-      <td> </td>
+      <td> 0,5804 </td>
       <td> Terima H<sub>0</sub> </td>
     </tr>
      <tr>
       <td> Umur Panen </td>
-      <td> </td>
+      <td> 0,5485 </td>
       <td> Terima H<sub>0</sub> </td>
     </tr>
      <tr>
       <td> Ketebalan Daging </td>
-      <td> </td>
+      <td> 0,08445 </td>
       <td> Terima H<sub>0</sub> </td>
     </tr>
      <tr>
       <td> Berat Buah </td>
-      <td> </td>
+      <td> 0,3409 </td>
       <td> Terima H<sub>0</sub> </td>
     </tr>
      <tr>
       <td> Tingkat Kemanisan (Brix) </td>
-      <td> </td>
+      <td> 0,1759 </td>
       <td> Terima H<sub>0</sub> </td>
     </tr>
      <tr>
       <td> Diameter Ruang Biji </td>
-      <td> </td>
+      <td> 0,1029 </td>
       <td> Terima H<sub>0</sub> </td>
     </tr>
   </tbody>
